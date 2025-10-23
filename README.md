@@ -2,7 +2,7 @@
 
 # Guss — Desenvolvedor de Bots & Full-Stack
 
-Sou **Guss**, focado em criar **bots de Discord** e **sistemas inteligentes**, sempre procurando soluções criativas e escaláveis.  
+Sou o **Guss**, focado em criar **bots de Discord** e **sistemas inteligentes**, sempre procurando soluções criativas e escaláveis.  
 
 ---
 
