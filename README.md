@@ -2,7 +2,7 @@
 
 # Guss — Desenvolvedor de Bots & Full-Stack
 
-Sou o **Guss**, focado em criar **bots de Discord** e **sistemas inteligentes**, sempre procurando soluções criativas e escaláveis.  
+Olá! Me chamo Gustavo, mais conhecido como **Guss**, tenho 13 anos e meu foco é  criar **bots de Discord** e **sistemas inteligentes**, sempre procurando soluções criativas e escaláveis.  
 
 ---
 
@@ -50,18 +50,6 @@ Sou o **Guss**, focado em criar **bots de Discord** e **sistemas inteligentes**,
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Bibliotecas
-
-![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![discord.js](https://img.shields.io/badge/discord.js-2C2F33?style=for-the-badge&logo=discord&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![aiohttp](https://img.shields.io/badge/aiohttp-2E9AFE?style=for-the-badge&logo=python&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
-![PyMongo](https://img.shields.io/badge/PyMongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 </div>
 
