@@ -8,8 +8,8 @@ Sou o **Guss**, focado em criar **bots de Discord** e **sistemas inteligentes**,
 
 <div align="center">
   
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5B4546fNu6)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GussApenas)
+[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2C2F33)](https://discord.gg/5B4546fNu6)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/GussApenas)
 
 </div>
 
@@ -33,22 +33,35 @@ Sou o **Guss**, focado em criar **bots de Discord** e **sistemas inteligentes**,
 
 ### Linguagens
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)](#)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)](#)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](#)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB400?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2862E9?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black)
 
 ### Frameworks / Runtime
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=fff)](#)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Bancos de Dados
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=fff)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-07405e?logo=sqlite&logoColor=fff)](#)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Bibliotecas
+
+![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![discord.js](https://img.shields.io/badge/discord.js-2C2F33?style=for-the-badge&logo=discord&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![aiohttp](https://img.shields.io/badge/aiohttp-2E9AFE?style=for-the-badge&logo=python&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+![PyMongo](https://img.shields.io/badge/PyMongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 </div>
 
